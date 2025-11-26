@@ -17,7 +17,7 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 
 | Phone Number           | OTP Screen             | Community Feed         |
 |------------------------|------------------------|------------------------|
-| ![Home](Screenshot_2025-11-19-11-19-53-84_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Report](Screenshot_2025-11-19-11-20-07-01_5033a3ed0e075179eb65267abd4c6333.png)   | ![Feed](Screenshot_2025-11-19-11-20-46-64_5033a3ed0e075179eb65267abd4c6333.png)     |
+| ![Home](CivicAssist/Screenshot_2025-11-19-11-19-53-84_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Report](Screenshot_2025-11-19-11-20-07-01_5033a3ed0e075179eb65267abd4c6333.png)   | ![Feed](Screenshot_2025-11-19-11-20-46-64_5033a3ed0e075179eb65267abd4c6333.png)     |
 
 | Report Complaint       | Google Map             | Category           |
 |------------------------|------------------------|------------------------|
