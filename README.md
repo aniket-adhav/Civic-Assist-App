@@ -19,7 +19,7 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 |------------------------|------------------------|------------------------|
 | ![Home](app/CivicAssist/Screenshot_2025-11-19-11-19-53-84_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Report](app/CivicAssist/Screenshot_2025-11-19-11-20-07-01_5033a3ed0e075179eb65267abd4c6333.jpg)   | ![Feed](app/CivicAssist/Screenshot_2025-11-19-11-20-46-64_5033a3ed0e075179eb65267abd4c6333.jpg)     |
 
-| Report Complaint       | Google Map             | Category           |
+| Report Complaint       | Google Map             | Category               |
 |------------------------|------------------------|------------------------|
 | ![Details](app/CivicAssist/Screenshot_2025-11-19-11-21-31-86_5033a3ed0e075179eb65267abd4c6333.jpg)  | ![Mine](app/CivicAssist/Screenshot_2025-11-19-11-21-58-10_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Login](app/CivicAssist/Screenshot_2025-11-19-11-22-29-11_5033a3ed0e075179eb65267abd4c6333.jpg)    |
 
@@ -31,13 +31,14 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 
 # 🖥 Admin Dashboard Screenshots
 
-| Admin Login            | Dashboard Overview     | All Complaints         |
+| Admin Login            | Dashboard Overview     | Dashboard Overview     |
 |------------------------|------------------------|------------------------|
-| ![Dash](app/CivicAssist/Screenshot_2025-11-19-11-22-56-72_5033a3ed0e075179eb65267abd4c6333.jpg)    | ![List](app/CivicAssist/Screenshot_2025-11-19-11-23-20-30.jpg)    | ![Details](app/CivicAssist/Screenshot_2025-11-19-11-23-25-31_5033a3ed0e075179eb65267abd4c6333.jpg) |
+| ![Dash](app/CivicAssist/Screenshot_2025-11-19-11-22-56-72_5033a3ed0e075179eb65267abd4c6333.jpg)    | ![List](app/CivicAssist/WhatsApp Image 2025-11-26 at 14.22.47_7c9a5612.jpg)    | ![Details](app/CivicAssist/WhatsApp Image 2025-11-26 at 14.22.48_0fc3032f.jpg) |
 
-| Complaint Details      | 
-|------------------------|
-| ![Assign](app/CivicAssist/Screenshot_2025-11-19-11-23-38-94_5033a3ed0e075179eb65267abd4c6333.jpg)  | 
+| All Complaints         | Complaints Details     | Change Status          |
+|------------------------|------------------------|------------------------|
+| ![Dash](app/CivicAssist/Screenshot_2025-11-19-11-23-25-31_5033a3ed0e075179eb65267abd4c6333.jpg)    | ![List](app/CivicAssist/Screenshot_2025-11-19-11-23-38-94_5033a3ed0e075179eb65267abd4c6333.jpg)    | ![Details](app/CivicAssist/WhatsApp Image 2025-11-26 at 14.28.28_76e811a6.jpg) |
+
 
 ---
 
