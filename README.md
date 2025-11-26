@@ -10,7 +10,7 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 ## 📊 App Flowchart  
 (Replace with your own flowchart)
 
-![Flowchart](flowchart.png)
+![Flowchart](Picture1.png)
 
 ---
 
