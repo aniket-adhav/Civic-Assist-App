@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323286295616",
+    "project_id": "civicassis",
+    "storage_bucket": "civicassis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323286295616:android:68bd9f8b0900c793e2aba5",
+        "android_client_info": {
+          "package_name": "com.example.spotfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8wuTaRmcOjFkMxM1dc4KfrrnW6Sv_ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
