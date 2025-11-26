@@ -17,15 +17,15 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 
 | Phone Number           | OTP Screen             | Community Feed         |
 |------------------------|------------------------|------------------------|
-| ![Home](CivicAssist/Screenshot_2025-11-19-11-19-53-84_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Report](Screenshot_2025-11-19-11-20-07-01_5033a3ed0e075179eb65267abd4c6333.png)   | ![Feed](Screenshot_2025-11-19-11-20-46-64_5033a3ed0e075179eb65267abd4c6333.png)     |
+| ![Home](app/CivicAssist/Screenshot_2025-11-19-11-19-53-84_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Report](app/CivicAssist/Screenshot_2025-11-19-11-20-07-01_5033a3ed0e075179eb65267abd4c6333.jpg)   | ![Feed](app/CivicAssist/Screenshot_2025-11-19-11-20-46-64_5033a3ed0e075179eb65267abd4c6333.jpg)     |
 
 | Report Complaint       | Google Map             | Category           |
 |------------------------|------------------------|------------------------|
-| ![Details](Screenshot_2025-11-19-11-21-31-86_5033a3ed0e075179eb65267abd4c6333.png)  | ![Mine](Screenshot_2025-11-19-11-21-58-10_5033a3ed0e075179eb65267abd4c6333.png)     | ![Login](Screenshot_2025-11-19-11-22-29-11_5033a3ed0e075179eb65267abd4c6333.png)    |
+| ![Details](app/CivicAssist/Screenshot_2025-11-19-11-21-31-86_5033a3ed0e075179eb65267abd4c6333.jpg)  | ![Mine](app/CivicAssist/Screenshot_2025-11-19-11-21-58-10_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Login](app/CivicAssist/Screenshot_2025-11-19-11-22-29-11_5033a3ed0e075179eb65267abd4c6333.jpg)    |
 
 | My Complaints          | Complaints Details     | Settings               |
 |------------------------|------------------------|------------------------|
-| ![Details](Screenshot_2025-11-19-11-22-41-04_5033a3ed0e075179eb65267abd4c6333.png)  | ![Mine](Screenshot_2025-11-19-11-21-19-05_5033a3ed0e075179eb65267abd4c6333.png)     | ![Login](Screenshot_2025-11-19-11-22-45-21_5033a3ed0e075179eb65267abd4c6333.png)    |
+| ![Details](app/CivicAssist/Screenshot_2025-11-19-11-22-41-04_5033a3ed0e075179eb65267abd4c6333.jpg)  | ![Mine](app/CivicAssist/Screenshot_2025-11-19-11-21-19-05_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Login](app/CivicAssist/Screenshot_2025-11-19-11-22-45-21_5033a3ed0e075179eb65267abd4c6333.jpg)    |
 
 ---
 
@@ -33,11 +33,11 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 
 | Admin Login            | Dashboard Overview     | All Complaints         |
 |------------------------|------------------------|------------------------|
-| ![Dash](Screenshot_2025-11-19-11-22-56-72_5033a3ed0e075179eb65267abd4c6333.png)    | ![List](Screenshot_2025-11-19-11-23-20-30.png)    | ![Details](Screenshot_2025-11-19-11-23-25-31_5033a3ed0e075179eb65267abd4c6333.png) |
+| ![Dash](app/CivicAssist/Screenshot_2025-11-19-11-22-56-72_5033a3ed0e075179eb65267abd4c6333.jpg)    | ![List](app/CivicAssist/Screenshot_2025-11-19-11-23-20-30.jpg)    | ![Details](app/CivicAssist/Screenshot_2025-11-19-11-23-25-31_5033a3ed0e075179eb65267abd4c6333.jpg) |
 
 | Complaint Details      | 
 |------------------------|
-| ![Assign](Screenshot_2025-11-19-11-23-38-94_5033a3ed0e075179eb65267abd4c6333.png)  | 
+| ![Assign](app/CivicAssist/Screenshot_2025-11-19-11-23-38-94_5033a3ed0e075179eb65267abd4c6333.jpg)  | 
 
 ---
 
