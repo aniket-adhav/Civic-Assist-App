@@ -51,7 +51,6 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 - 🧭 **Navigation Compose**
 - 🔐 **Firebase Phone OTP Authentication**
 - 🌍 **Google Maps Location API**
-- 📦 **Coil** (Image loading)
 
 ### 🖥 **Backend**
 - 🟩 **Node.js + Express.js**
@@ -59,7 +58,6 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 - ☁️ **Cloudinary** (Image upload)
 - 🔐 **JWT (for Admin Authentication)**
 - 📡 **REST APIs**
-- 🛠 **Multer** (Temporary media handling)
 
 ### 🤖 **Machine Learning (Phase 2)**
 - Fake/Spam Report Detection  
@@ -95,14 +93,8 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 | POST   | `/api/report`          | Create a new complaint             |
 | GET    | `/api/report`          | Get all complaints                 |
 | GET    | `/api/report/:id`      | Get single complaint               |
-| POST   | `/api/comment/:id`     | Add comment on complaint           |
 | POST   | `/api/report/upvote`   | Upvote a complaint                 |
 | POST   | `/api/admin/assign`    | Assign complaint to department     |
 
-*(Add your own endpoints later)*
 
 ---
-
-# 🧠 App Architecture
-
-### **User App (Android)**
