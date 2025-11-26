@@ -16,25 +16,29 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 
 # 📱 User App Screenshots
 
-| Home Screen            | Report Issue           | Community Feed         |
+| Phone Number           | OTP Screen             | Community Feed         |
 |------------------------|------------------------|------------------------|
-| ![Home](user1.png)     | ![Report](user2.png)   | ![Feed](user3.png)     |
+| ![Home](Screenshot_2025-11-19-11-19-53-84_5033a3ed0e075179eb65267abd4c6333.png)     | ![Report](Screenshot_2025-11-19-11-20-07-01_5033a3ed0e075179eb65267abd4c6333.png)   | ![Feed](Screenshot_2025-11-19-11-20-46-64_5033a3ed0e075179eb65267abd4c6333.png)     |
 
-| Complaint Details      | My Complaints          | OTP Login              |
+| Report Complaint       | Google Map             | Category           |
 |------------------------|------------------------|------------------------|
-| ![Details](user4.png)  | ![Mine](user5.png)     | ![Login](user6.png)    |
+| ![Details](Screenshot_2025-11-19-11-21-31-86_5033a3ed0e075179eb65267abd4c6333.png)  | ![Mine](Screenshot_2025-11-19-11-21-58-10_5033a3ed0e075179eb65267abd4c6333.png)     | ![Login](Screenshot_2025-11-19-11-22-29-11_5033a3ed0e075179eb65267abd4c6333.png)    |
+
+| My Complaints          | Complaints Details     | Settings               |
+|------------------------|------------------------|------------------------|
+| ![Details](Screenshot_2025-11-19-11-22-41-04_5033a3ed0e075179eb65267abd4c6333.png)  | ![Mine](Screenshot_2025-11-19-11-21-19-05_5033a3ed0e075179eb65267abd4c6333.png)     | ![Login](Screenshot_2025-11-19-11-22-45-21_5033a3ed0e075179eb65267abd4c6333.png)    |
 
 ---
 
 # 🖥 Admin Dashboard Screenshots
 
-| Dashboard Overview     | Complaints List        | Complaint Details      |
+| Admin Login            | Dashboard Overview     | All Complaints         |
 |------------------------|------------------------|------------------------|
-| ![Dash](admin1.png)    | ![List](admin2.png)    | ![Details](admin3.png) |
+| ![Dash](Screenshot_2025-11-19-11-22-56-72_5033a3ed0e075179eb65267abd4c6333.png)    | ![List](Screenshot_2025-11-19-11-23-20-30.png)    | ![Details](Screenshot_2025-11-19-11-23-25-31_5033a3ed0e075179eb65267abd4c6333.png) |
 
-| Assign Department      | Analytics              | Login Page             |
-|------------------------|------------------------|------------------------|
-| ![Assign](admin4.png)  | ![Analytics](admin5.png)| ![Admin Login](admin6.png) |
+| Complaint Details      | 
+|------------------------|
+| ![Assign](Screenshot_2025-11-19-11-23-38-94_5033a3ed0e075179eb65267abd4c6333.png)  | 
 
 ---
 
