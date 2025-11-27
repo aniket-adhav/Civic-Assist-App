@@ -56,7 +56,6 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 - 🟩 **Node.js + Express.js**
 - 🍃 **MongoDB + Mongoose**
 - ☁️ **Cloudinary** (Image upload)
-- 🔐 **JWT (for Admin Authentication)**
 - 📡 **REST APIs**
 
 ### 🤖 **Machine Learning (Phase 2)**
