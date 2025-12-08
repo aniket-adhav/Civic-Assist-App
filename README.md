@@ -21,7 +21,7 @@ This project aims to make cities more responsive, transparent, and citizen-frien
 
 | Report Complaint       | Select Location        | Google Map             |
 |------------------------|------------------------|------------------------|
-| ![Details](app/CivicAssist/Screenshot_2025-11-19-11-21-31-86_5033a3ed0e075179eb65267abd4c6333.jpg)  | ![Mine](app/CivicAssist/)     | ![Login](app/CivicAssist/Screenshot_2025-11-19-11-21-58-10_5033a3ed0e075179eb65267abd4c6333.jpg)    |
+| ![Details](app/CivicAssist/Screenshot_2025-11-19-11-21-31-86_5033a3ed0e075179eb65267abd4c6333.jpg)  | ![Mine](app/CivicAssist/Screenshot_2025-12-08-22-46-55-19_5033a3ed0e075179eb65267abd4c6333.jpg)     | ![Login](app/CivicAssist/Screenshot_2025-11-19-11-21-58-10_5033a3ed0e075179eb65267abd4c6333.jpg)    |
 
 | My Complaints          | Complaints Details     | Settings               |
 |------------------------|------------------------|------------------------|
